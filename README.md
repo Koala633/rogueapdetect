@@ -6,3 +6,4 @@ Détecte la présence d'un rogue AP.Les rogues AP sont de faux hotspot wifi serv
 - Pour linux: téléchargez le fichier rogueapdetect.sh et lancez le tel que: bash rogueapdetect.sh (le script fonctionne avec network-manager)
 - Pour windows: une version en ruby existe également si jamais vous avez ruby d'installé sur votre machine.
 - Par soucis de transparence le code source du fichier exécutable est disponible dans le script: rogueapdetect.py
+- Pour linux: Si vous utilisez ce script sur un ordinateur non francophone, pensez a modifier la variable "Aucun" dans le script rogueapdetect.sh ligne 33
